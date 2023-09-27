@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(46, 139, 139);
+    padding: 7px 70px;
+}
+
+.logo {
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.36vw;
+}
+
+.logo span {
+    font-size: 1.56vw;
+}
+
+.list a {
+    text-decoration: none;
+    align-items: center;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 1.3vw;
+    font-weight: 500;
+}

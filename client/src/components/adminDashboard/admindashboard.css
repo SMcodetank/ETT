@@ -1,0 +1,92 @@
+.main1 {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: lightseagreen;
+    color: #fff;
+}
+
+.main1 h1 {
+    text-align: center;
+}
+
+.employe-list {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+}
+
+.indicate {
+    color: #fff;
+    font-size: 1.5;
+    font-weight: 800;
+}
+
+.add a {
+    background: darkorange;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 800;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.add a:hover {
+    background: #9e6116;
+    box-shadow: 5px 10px 5px rgba(0, 0, 0, 2.0);
+}
+
+.employe-card {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.card {
+    background: skyblue;
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+
+
+}
+
+.more {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.more a {
+    background: #0c7c77;
+    text-decoration: none;
+    margin-top: 30px;
+    color: #fff;
+    font-weight: 800;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.more button {
+    border: none;
+    height: 36px;
+    margin-top: 30px;
+    background: #0c7c77;
+    padding: 5px 37px;
+    color: #fff;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+.more button:hover {
+    background: #085854;
+}
+
+.more a:hover {
+    background: #085854;
+
+}
